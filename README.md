@@ -1,6 +1,6 @@
 
 🚀 Sobre mim  
-Meu nome é Leilayne, mas pode me chamar de Lei, tenho 25 anos e estou iniciando na programação.    
+Meu nome é Leilayne, tenho 25 anos e estou iniciando na programação.    
 Atualmente estou cursando Engenharia de Software e estou no segundo período, também faço um curso de Desenvolvedor FullStack pela [CODI ACADEMY](codiacademy.com), e concilio alguns cursos na DIO, ultimamente onde passo a maior parte do tempo e aprimoro minhas habilidades.  
 
 ## 🛠 Habilidades  
